@@ -13,7 +13,17 @@ The To-Do List application allows users to manage their tasks efficiently. Users
 
 -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
 
+## Run It Locally:
+This project doesn't require special set up, in order to setup and work on this project on your own, you will need to:
+
+Clone this project:
+`git clone git@github.com:Firkax69/todo-list-project.git`
+
+Once you have cloned this project, jump to the folder: 
+`cd todo-list-projct/`
+and run the code `code .`
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+
 ## Screenshots:
 ![screen](https://github.com/user-attachments/assets/1f1aa783-843d-4e4b-8c1f-bc16ad47a739)
-
-Run localy ??????
